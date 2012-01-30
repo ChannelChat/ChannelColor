@@ -1,0 +1,5 @@
+name: ChannelColor
+main: com.feildmaster.modules.color.Colorize
+version: 1.0.1 beta
+author: feildmaster
+depend: [ChannelChat]
