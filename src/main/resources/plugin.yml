@@ -1,5 +1,5 @@
-name: ChannelColor
-main: com.feildmaster.modules.color.Colorize
-version: 1.0.1 beta
+name: ${name}
+main: com.feildmaster.module.color.Colorize
+version: ${version}
 author: feildmaster
 depend: [ChannelChat]
